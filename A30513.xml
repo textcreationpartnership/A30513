@@ -1,0 +1,1015 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The crying sinnes reproved whereof the rulers and people of England, are highly guilty ... : with meek exhortations to this present Parliament ... / E.B.</title>
+            <author>Burrough, Edward, 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30513</idno>
+            <idno type="STC">Wing B5988</idno>
+            <idno type="STC">ESTC R20702</idno>
+            <idno type="EEBO-CITATION">12259407</idno>
+            <idno type="OCLC">ocm 12259407</idno>
+            <idno type="VID">57779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 861:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The crying sinnes reproved whereof the rulers and people of England, are highly guilty ... : with meek exhortations to this present Parliament ... / E.B.</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 17 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Edward Burrough. cf. BM.</note>
+                  <note>Errata: p. 17.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57779:1"/>
+            <pb facs="tcp:57779:1" rendition="simple:additions"/>
+            <p>The Crying Sinnes REPROVED.</p>
+            <p>WHEREOF The Rulers and People of <hi>England,</hi> are highly guilty; With additions to their own Confeſſions held forth by them in a Declaration of their own, bearing date <hi>Septem.</hi> 23. wherein theſe three Nations are called to a day of ſolemn Faſting, &amp;c.</p>
+            <p>WITH MEEK EXHORTATIONS To this preſent <hi>PARLIAMENT,</hi> That they take heed to themſelves leſt they make the guiltleſs to ſuffer upon the account of Blaſphe<g ref="char:EOLhyphen"/>my or Error, <hi>&amp;c.</hi> while the evil doers go free, and the falſe Prophets defended.</p>
+            <p>And this in love to all their ſouls is a warning to them <hi>By one that loves Equity and true Judgement, and hates every falſe way, and is a friend unto the Common<g ref="char:EOLhyphen"/>wealth, waiting till true juſtice be exalted in this Land, who for want thereof is a ſufferer with the Saints; who bears the reproaches for Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>E. B.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons</hi> at the Bul and Mouth neer <hi>Alderſgate,</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57779:2"/>
+            <pb n="1" facs="tcp:57779:2"/>
+            <head>A ſober REPROOF Of many particular SINNES: WHEREOF The Rulers and Teachers of <hi>England</hi> are guilty.</head>
+            <p>HOVV long? How long ſhall Gods righteous ſoul be grieved, and his pure Spirit vexed with the vain oblations and offerings of them whoſe heart is far from him, even after their Idols, and in their covetouſneſs, and earthly honors of this vain world, while they honor with their lips and profeſs love with their mouthes in outward obſervances? How long Lord shall thy enemies lean upon thee, and ſay, <hi>Is not the Lord amongſt us?</hi> while they oppreſs the innocent, and make a prey upon the upright, and tread thy glory underfoot, and deſpiſe thy Law and Ordinances, and ſet at nought thy children, and cauſes them to ſuffer grievous burdens under heavy hands of cruelty, every one ſmiting with the fiſt of wick<g ref="char:EOLhyphen"/>edneſs? Wilt thou be pleaſed Lord with a ſacrifice of the unclean hands,
+<pb n="2" facs="tcp:57779:3"/> given unto thee from polluted hearts, offered upon the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> own precepts in ſet times? VVilt thou be worſhipped in <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and traditions, in a ſet day, of hanging down the head li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for a moment? Canſt thou accept a Faſt appointed by the will of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> while the bands of wickedneſs are not looſed, nor the oppreſſed ſet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And wilt thou be found in a way decreed by the children of men, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way is corrupt before thee? Yea Lord God men ſeeks, but not <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n way; and they call upon thee, but not in thy Spirit; and they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> towards thee, but not at thy door; they ask of thee the Ordinance <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Juſtice, and they delight in approaching to thee, and they are as a Na<g ref="char:EOLunhyphen"/>tion that works righteouſneſs, yet doth their ſins cry aloud in thy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and their oppreſſion and backſliding calls for vengeance upon their o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heads; <hi>VVhen will you be wiſe yee Rulers, and learned you Iudges of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> earth; for now the jealouſie of the Lord burns like fire, and his wrath is kin<g ref="char:EOLunhyphen"/>dled more then a little; and yet you do not truſt in him, but in the day of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Faſt you finde your own pleaſures, and in the day of your humiliation your hearts are lifted up in vain glory, and you preſume in his preſence, and call him Lord, but doth not that which he commands; for the oppreſſed is not eaſed, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the captive is not freed, nor the hungry fed, nor the naked cloathed; the Lords ſoul is wearied with you, and your offerings unto him is as if you cut off a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gs neck, and your incenſe is unto him as if you bleſſed an Idol; you neglect the Faſt which God hath choſen, and makes unto your ſelves a Precept and a day in which your work is not accepted; while your fear towards God is taught by your own Precepts, and they that fear the Lord mourns for you, and they that know his way wiſheth good towards you, that your eye might ſee, and your hearts underſtand that which belongs to your peace; but you deſpiſe the repr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>f of inſtruction, and chooſeth your own wayes, and doth that which is right is the ſight of your own eyes, and you weary the Lord from day to day, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is preſſed under iniquities, as a cart is preſſed with ſheaves; and shall not his ſoul be avenged upon you, and upon ſuch a Nation as this, whoſe fear towards him is taught by the Precepts of men, and whoſe worſhip of him is exerciſed is the vain Trad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions of their own inventions; hear ye deaf, and look ye blinde, behold the Lords hand is upon you, and you know it not; his judgements <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nigh you, and you are not aware, but exalts your own horn, and ſome of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſeeks unto your ſelves a Kingdome to rule in oppreſſion over the poor and needy, who cryes to the Lord day and night under the heavy hand of cruel burdens which lyes upon the innocent, but you will not touch them with one of your little fingers, woe is me for you, for your deſtruction comes upon you as an armed m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and your deſolation as an unreſiſtable flood; for you regard not the oppreſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the poor, but makes it a thing of nought you that paſs by: Hear and conſi<g ref="char:EOLhyphen"/>der ye Parliament of England, ye are ſomething concerned herein, if you m<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to be eſtabliſhed, looſe the oppreſſion of the innocent, and let the oppreſſed goe free, for this the Lord requires of you more then your oblations and ſet days of humiliation, wherein you make a ſhew of repentance to the Lord, and hangs
+<pb n="3" facs="tcp:57779:3" rendition="simple:additions"/> down <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for a day like a Bulruſh, when your hearts are not truly upright <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> L<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>claration I have viewed, proceeding from you, as the firſt work <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds, and therein you declare your ſelves to theſe three Nati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeeming relentings before the Lord, [I wiſh your hearts were as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>feſs] and firſt you ſay, <hi>Such hath been the out-going of God for his <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> this our generation, that none as men but muſt ſay, It is marvellous in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>; and none as Chriſtians, but muſt cry out, It is the Lords doings.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to which I anſner: Indeed true it is, that the out-goings and dea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the Lord have been and are mighty and wonderful in this Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for his people, which now are trodden upon, and oppreſſed, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſhame of ſome of you; and indeed ſome of you were partakers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a good degree of his power, and outgoings with you, while you ſtood in his counſel, and then it was marvellous in your eye, and you could cry o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, <hi>It is the Lords doings;</hi> but Friends, will you conſider how you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtand, and into what ye are fallen, ſo as that inſtead of being the Lords people, you are turned enemies to the Lords people, and he is de<g ref="char:EOLhyphen"/>parted from you, and hardly goes out with you any more: while you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere little in your own eyes ye loved juſtice and judgement; but now you are exalted and lifted up, and hath forgotten the marvellous doing of our God, and Judgement is turned backward, and Equitie is fallen, &amp; the hand of oppreſſion is laid heavy upon the Lords ſervants; Oh that you would lay it to heart before the decree be ſealed againſt you, when no time of repentance can be found by you. And further you ſay, <hi>[He] the Lord hath always been a ready help in time of need, &amp; never did his poor ſer<g ref="char:EOLhyphen"/>vants ſeek his face in vain, neither did he ever lend a deafe eare to the voyce of their weeping.</hi> To which I anſwer, Verily it's true, he is always a ready help for us his ſervants in time of need, neither did we ever ſeek his face in vain even when we lay under the grievous oppreſſions of the enemy; nor you your ſelves (ſome of you) ſought not in vain while your hearts were up<g ref="char:EOLhyphen"/>right with him, but had the deliverance deſired by you out of the hands of all your enemies, &amp; their necks to tread upon, but it is not ſo now, inaſ<g ref="char:EOLhyphen"/>much as you are become vain, formal ſeekers, &amp; hypocritical faſters, &amp; a deaf ear will the Lord lend to you, &amp; to the voice of your weeping, til you remove the oppreſſion from off the neck of the diſtreſſed, &amp; you ſhal ſeek his face &amp; find no anſwer from him; for the viſion ſhal fail unto you, and though you houl unto him, and call upon him, yet will he hide his face more &amp; more, &amp; leave you to your ſelvs, &amp; wil not regard the voice of your crying &amp; though you have found him a preſent help in time of trouble &amp; of your need in the day of your integrity, yet trouble &amp; deſtruction ſhall come upon you, &amp; no help from him ſhal you find, till you return to him with all your hearts and ſpirits, and lay down your own crowns, and exalt him the Lord of glory, who is now appearing in power. And further you ſay, <hi>in the midſt of ſuch unequalled &amp; ſignal mercies, how great hath been &amp; is your ingratitude and unfruitfulneſs.</hi>
+            </p>
+            <pb n="4" facs="tcp:57779:4"/>
+            <p>To this I anſwer: Truly have you ſpoken to your own ſha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ingratitude and unfruitfulneſs exceeds many that went before you, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> juſtly were cut off for the very ſins of which you are highly guilty; and more may I add unto your confeſſion, how great hath been and is yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r oppreſſions, and pride, and vain-glory, and ſelf-exaltings, and hypocri<g ref="char:EOLhyphen"/>tical faſtings, and confeſſions with your mouths, when your hea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> are far from the Lord; yea, as your mercies hath been unequalled, ſo your ſins cannot be numbred, as though you ſinned that Grace might abound; or did evil that good may come; or took liberty to your own hearts luſts, from your former mercies and deliverances received. Then further you ſay, <hi>Should the Lord ſay unto you as once he did unto</hi> Ephraim, Ephraim <hi>is joyned to Idols, let him alone; that ſame Sentence would be your deſert; as inſenſibility is your crime, ſo it might be too juſtly made your puniſh<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>
+               <hi>Anſwer;</hi> Yea verily the Lord may ſay ſo unto you; many of ye Rulers of England is joined to Idols, let them alone; and that ſame ſentence is your deſert; but Inſenſibility is not wholly your crime; for you have had a day of viſitation from the Lord, in warning of you by the mouth of his Servants; and you are not altogether unſenſible of your crime of great oppreſſions, and falſe worſhips, and Idol Shepherds Oblations, which you are joined unto, and your puniſhment will juſtly be the ſame; for the time comes that it ſhall be darkneſs and night upon you, and you ſhall ſeek the Word of the Lord but ſhall not finde it; for God will ſmite your Idol Shepherds, and break down your Idol Altars of vain Tradition, and the Lord will leave you to your ſelves to wallow in darkneſs and in the way of death; and the Servants of the Lord ſhall let you alone, and ſhall no more weary themſelves with ſeeking to reclame you. And further you ſay, <hi>VVho hath been melted with mercy? who hath been broken by Iudgements? a ſinful Nation; a people laden with iniquity; a ſeed of evil doers; children that are corrupters; they have forſaken the Lord; they have pro<g ref="char:EOLhyphen"/>voked the Holy One of Iſrael to anger; they are gone away backward; why ſhould ye be ſtricken any more? ye will revolt more and more.</hi> And further you ſay, <hi>As thoſe ſad words do Characteriſe us as fitly as theſe of Iuda; ſo if that ſad deſtruction ſhould alſo be our doom, we could not but acknowledge the Lord is righteous in all his wayes.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Verily few of you have been melted by mercies, or broken by Judgements, but are a ſinful Nation, a people laden with iniquity, a ſeed of evil doers, and ye have read your own character fully, for you have forſaken the Lord, and are children that are corrupters, and are gone away backward, and provokes the holy One of Iſrael to anger; and true is it, why ſhould you be ſtricken any more, or warned, for you will revolt, and turn aſide more and more; how truly have you numbred up the ſum of your own Eſtate, even to your ſhame and confuſion of face, and to the juſtifying of the Lord when he in vengeance appears to
+<pb n="5" facs="tcp:57779:4" rendition="simple:additions"/> judge <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> even aſſuredly that ſad denounciation will be your doom, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Judgements ſhall overtake you when the Seed is gathered <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> among you, even deſolation of Cities, and madneſs of Prophets, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will ſmite you together with confuſion, and you ſhall not bring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deliverance in the Land, neither ſhall the Nations have peace in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yes, while you revolt when you are ſtricken, and perſecute the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> when they warn you.</p>
+            <p>And in the day of your recompence, you ſhall indeed confeſſe to your <gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>mnation, that the Lord is righteous in all his wayes; and fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r you ſay, <hi>How deeply have you grieved your God, in not mourning as you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght for that prophaneneſſe and barrenneſſe that is ſo ripe amongſt you, even <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch meanes of knowledge and grace, and in not being ſenſible under, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> making a ſanctified uſe of thoſe rebukes you have of late received.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> Yea, you have, and doe daily even in your ſet daies and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nes of Faſting deeply grieve the Lord God, in not mourning and fa<g ref="char:EOLhyphen"/>ſting, with a heart prepared to the Lord, but in hypocriſie and even for ſtrife and debate: indeed ignorance, and prohaneneſſe, and barrenneſſe abounds among you, and you are ripe therein to be cut down for the fire, even the more ye are inexcuſable, becauſe you have neglected the meſſages of the grace of God, and means of knowledge from the mouth of the Lords deſpiſed ſervants, whom you have perſecuted even in cru<g ref="char:EOLhyphen"/>elty, ſome of them unto death, and have impriſoned others unjuſtly, while your falſe Prophets and Diviners have been ſet up by you, who have dawbed you with untempered morter; and you have made your hearts unſenſible, by hardening your hearts againſt reproof and re<g ref="char:EOLhyphen"/>bukes, which ſome of you of late have received; the meſſengers of which rebukes have been evil and ſhamefully entreated in your Towns, Steeple-houſes, and Highwaies, and elſewhere in your Dominions; and how ſhould you but be ignorant, and prophane, and barren, while you cannot receive the meſſage of Light, but ſtumbles at Chriſt Jeſus the Light of the world, and cannot believe in the light wherewith Chriſt Jeſus hath enlightned every one of you which is the way to knowledge, and to receive righteouſneſſe into your ſoules, and therein to be fruit<g ref="char:EOLhyphen"/>ful to the Lord.</p>
+            <p>And you ſay, <hi>Every individual man hath helped to fill up the meaſure of their ſinnes; Firſt, in not improving mercies ſo fully as might have been to his glory from whence they were received.</hi>
+            </p>
+            <p n="1">I <hi>Anſwer.</hi> Indeed I believe not one of you may be excuſed in the ſight of God, but are all guilty in filling up the meaſure of tranſgreſſi<g ref="char:EOLhyphen"/>on, and even in not improving mercies to the glory of God; for had you improved the great mercies of your Deliverance and Conqueſt over your En<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mies, the Nations had been in peace and reſt before this day; but you ſtrove to glorifie your ſelves, and ſought a Kingdome of riches and honour to your ſelves, and who might be the greateſt and higheſt,
+<pb n="6" facs="tcp:57779:5"/> to the pleaſure of ſome, and to the grief of others; and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mercies to your ſelves, and not to him that gave them; and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Dominions filled with diſtractions, and feares, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> every ſide, and your Dominions are as broken veſſels th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> joyned together, but is full of wickedneſſe, and falſe Sects, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worſhips, and in your own Counſels are you filled with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And thus it is juſtly come to paſſe upon you, becauſe of your tr<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſions.</p>
+            <p>Again you ſay, <hi>In the ſad neglect and want of Activity, Reſoluti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Integrity in Magiſtrates and others impowred therein for the puniſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuppreſſion of vice and crying enormities.</hi>
+            </p>
+            <p>I anſwer. True, it is a ſad neglect, and want of Activity and lo<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> in the Magiſtrates hath been, and is, to puniſh and ſuppreſs vice; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore it abounds in all fulneſſe in the very ſtreets, and it hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wholly contrary; for vice hath gone at liberty, while the Magiſtr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and ſuch who have been impowred, have been active, and full of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gour, and no neglect found in them to puniſh (or rather to opp<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and ſuppreſſe) the innocent and meek of the earth, and even they h<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> done violence to the harmleſſe, witneſſe moſt parts of priſons this d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in <hi>England,</hi> how many have been beat and abuſed, and haled, and knocked down with ſtaves, in the ſight of ſome of the Magiſtrates, and how many have been impriſoned for paſſing on the highwayes, and through their Towns, and ſome for declaring againſt Vice and crying Enormities, which one day muſt be laid to yours and their charge; f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a ſad neglect hath been for want of juſtice and true judgement, and they that have been impowered, have turned their power againſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord, and have been active to lay their ſword upon the guiltleſſe, while the guilty have gone free; witneſſe many who have been bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Steeple-houſes by violent men, and afterwards committed to priſon, while the peace breakers and violent have gone free: And in<g ref="char:EOLhyphen"/>deed it is time to lay theſe things to heart; for till you purge your ſelves from theſe iniquities, you ſhall never be eſtabliſhed, nor your Domini<g ref="char:EOLhyphen"/>ons in peace; for, for theſe things, and ſuch like abominations are yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> filled with diſtractions, and feares compaſſe you about, and that juſt<g ref="char:EOLhyphen"/>ly from the hand of the Lord, as the light in your conſciences ſhall an<g ref="char:EOLhyphen"/>ſwer in the dreadful day of account, which commeth ſuddenly upon you.</p>
+            <p>Again you ſay, <hi>In the abominable blasphemies vented and spread of late through the apoſtacie of, and the abuſe of liberty, by many profeſſing Reli<g ref="char:EOLhyphen"/>gion.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> No doubt but blaſphemy is a crying ſin, whereof the Lord is guilty, if you were able to judge thereof, but rather indeed this cauſe is not rightly ſtated; for you call that blaſphemy, which is truth, ſuch is the grievous ignorance of ſome of you: And this, I am ſure, is your
+<pb n="12" facs="tcp:57779:5" rendition="simple:additions"/> greater <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>demning the guiltleſſe, rather then ſuffering the guilty <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>lar. Friends, beware, leſt your judgement be ſo corrup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> evil good, and good evil, and thereupon approve the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the good, being given up to hardneſſe of heart, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de; and ſuch were the ſins of the Rulers in Iſrael, who <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the true Prophets under the account of Blaſphemie, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and approved of the Prophets that Propheſied falſly, and of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that bore Rule by their means; for the people loved to have <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 5. My ſoul wiſheth that you Rulers may be wiſe, and ye Judges <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in this particular, leſt you go in the way of your Fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to deſtruction, perſecuting the innocent without cauſe, through <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gement of the way of truth, which may be called by you He<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Blaſphemie, who in the blindneſs of your minds cannot diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the things of God; for in that way which the wiſedome of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> calls Hereſie, do we worſhip the true God of our Fathers; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo much the more I may warn you herein, to take heed for the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come, becauſe you have ſome of you been highly guilty of this <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>greſsion of late, even in condemning the guiltleſs concerning this <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ſo that thus for you I may more truly ſtate the particular. In <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bominable violence and oppreſſions acted of late upon the inno<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d them who have worſhipped God in the Spirit, through the wick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of ſome Rulers, and the abuſe of liberty, by them which have <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſſed love to God and his way, through the falſe judgements, and <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ry opinions of many, who have called truth errour, and the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God blaſphemie: And this is your ſin, of which if you that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> guilty repent not, and turn from it, and beware of it for time to come, your honour ſhall fall into the duſt, and your fall ſhall be more deeper into confuſion and deſtruction then any that have yet gone before you; for of late the Lord powerfully hath begun to work, and to vent his truths through the mouths of his ſervants, and to bring out of the Apoſtacie and Blaſphemies (which hath reigned ſince the daies of the Apoſtles) the true and pure Religion, which ſtands in the exerciſe of a pure Conſcience.</p>
+            <p>Again you ſay, <hi>In the little love and tenderneſs which is even amongſt Pro<g ref="char:EOLhyphen"/>feſſors themſelves towards one another, who whileſt they contend for things disputable, loſe that which is certain, even charity; without which they be<g ref="char:EOLhyphen"/>come as ſounding braſſe, or tinkling cymbals.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is alſo your ſin, and the ſin of the Nation, want of love and tenderneſſe in Profeſſors towards God, and one towards another; and that love which appeares, is but in the ſhew, and in the forme and likeneſſe of things, and not from the true ground of love and peace; and theſe are they that hate the Light, and walk not in the Light wherewith Chriſt Jeſus hath lighted every man that comes into the world, in which the unity of Saints do ſtand, and in which their love
+<pb n="8" facs="tcp:57779:6"/> is one to another; and they that are out of the Light, are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ritie, which is the bond of perfection; and theſe that know <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Chriſt, to guide them in the waies of God, are in all <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and words, and actions, as ſounding braſs, and as a <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and theſe are they that are in the Diſputes, and Co<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ti<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> about the Leteer, drawing their own conſequences and deduct<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it, in their own wiſedome, and knowledge, and ſenſual under<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> and thoſe loſe the ſubſtance, and know not that which is certain, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus in them, to be Ruler over them, but are as dry trees, to be p<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> up; and all their Profeſſion will wither, and all their pretended <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will periſh, and their ſhew of things in the outward appearance <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be confounded, who know not the Light of Chriſt to guide them; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Light is the ground of true love and tenderneſs, and brings to the k<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ledge of things certain out of the contention of things diſputable.</p>
+            <p>But further you ſay, <hi>In allowing difference in Formes, more power <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> divide Chriſtians then agreements in Fundamentals has to unite the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the dangerouſeſt and fruitfulleſt ſeed that hath been ſown by the E<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ous One.</hi>
+            </p>
+            <p>Anſw. Chriſtians are they that follow Chriſt Jeſus, who are not ſo only in name, but in practice; and they are one, and cannot be divi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> as they walk in the Light which comes from Chriſt, who is the f<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion, or fundamental Principle of the Religion, which is not in for<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, but in power, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>greeing in the foundation, and in the whole building: But Friends, you ſeem to charge the late Powers of the Nation, if <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your ſelves, yet ſome part of your Body which now is in power, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great things, with no leſs then to be Satans Seedſmen; for if allo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> difference in Formes be the dangerouſeſt and fruitfulleſt ſeed that ever was ſown by the Envious one, as you ſay it is; then who do you blame, either the foregoing Parliaments, of which ſome of you have been, and ſo cannot be clear from that evil, or the Protector himſelf? and this ſeems to be a very great charge upon him (whoſe judgement is appear<g ref="char:EOLhyphen"/>ingly to give allowance unto difference in Formes) to be the Seed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>man of Satan, or to allow the Envious One to ſow the ſeed which you call dangerous; it is not Chriſtians that ere divided it, but the Sects and falſe Opinions, men of corrupt minds,</p>
+            <p>Thus much in Anſwer to the words as they are laid down: But I ra<g ref="char:EOLhyphen"/>ther chooſe to ſpeak to the mind or intent of the Penmans Spirit of your Declaration, which implieth an inclining to be againſt many Formes, and to bind up all into one Forme of Worſhip; and ſo thereby, though ſome which is evill would be ſhut out, yet would the true ſpiritual wor<g ref="char:EOLhyphen"/>ſhip of the Saints above all aſſuredly thereby be excluded, and the tender ſpirits of people who truly ſeek God, would be oppreſſed: But keep your ſelves from that evill I warn you, leſt you be broken, and never bound up; and lay no law, nor make no law upon Religion, but let Religion
+<pb n="9" facs="tcp:57779:6"/> defea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf, only lay your Law upon Peace-breakers and violent <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not mens conſciences to a Worſhip by your Precepts ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> already, or by ſuch as may be made, if you eaſe the oppreſſed, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill eſtabliſh you in peace if you fulfil his Will herein.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſay, <hi>In not being fully ſenſible, though the Lord in the depth of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and righteous Iudgements hath for ſome yeers laſt paſt been over<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſeveral Authorities in theſe Nations, and hath as it were been pouring <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Veſſel to Veſſel, he hath been pleaſed ever ſince his people publikely <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for his Truths, ſtill to ſet up Rulers who have allowed them the free <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>iſe and profeſſion of them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Indeed you are not ſenſible of the righteous Judgements of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in overturning ſeveral Authorities in the Nation, and therefore you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame abominations as they did who were overturned, till you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſo be overturned as they were; but takeheed to your ſelves leſt you be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re then poured from Veſſel to Veſſel, even ſpilt in the duſt of miſery, and never more gathered again: Your laſt part of this particular is falſe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are in the pure Religion, and in the exerciſe of our pure con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, have not from ſome of you our Liberty, but are caſt into Goals <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Dungeons, and baniſhed out of your Towns and Cities, ſome of us by f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e that have been Rulers ſet up; if this be doubted by you, exa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> through your Nation, true teſtimony may be given; ſo that here you have ſpoken better of the Rulers then indeed it is, and would make the Nation believe untruths to eſtabliſh you; though I condemn not all, but my words is towards the guilty, that they may repent, leſt they pe<g ref="char:EOLhyphen"/>riſh in their iniquities, and be cut off in their tranſgreſſions, and the Curſe be upon you all for ſomes ſake.</p>
+            <p>Again you ſay, <hi>In that Athieſtical and luke-warm spirit, too commonly amongſt you, whereby not only the form, but the power of Godlineſs is reproach<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and accounted as a vain thing, but alſo too many have fallen from their firſt Love, and others eſteem themſelves rich while they are miſerable poor, and blind and naked; ſins which are the higheſt aggravated by being committed in Countries where the glorious Light of the Gospel ſhines cleareſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This you have confeſſed truly to your own ſhame, in the ſight of other Nations, your ſpirit is not onely luke-warm unto righteouſneſs, but it is too common among ſome of you to be zealous and hot in perſe<g ref="char:EOLhyphen"/>cuting the way of righteouſneſs; and indeed many of you are groſly fal<g ref="char:EOLhyphen"/>len from your firſt Love and Integrity, and thereby the power of godli<g ref="char:EOLhyphen"/>neſſe is not only reproached by you, but perſecuted and counted vile, and they that live in it oppreſſed; ſuch is your zeal in your dead form, ſome of
+<pb n="10" facs="tcp:57779:7"/> you, that even you count the true way and worſhip of God mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you are the men that eſteems your ſelves rich while you are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and blinde and naked, and your ſins are aggravated the more and hig<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> becauſe God gives you warning daily by the mouth of his Servants, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> holds forth the Light of the glorious Goſpel, and bears witneſs unto your face againſt your abominations and Idolatries committed by you <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all this you continue in your Iniquities, and evil entreats the Meſſ<gap reason="illegible" resp="#MURP" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> of Peace unto your ſouls, and are the men indeed which is Athi<gap reason="illegible" resp="#MURP" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> even many by their works, ſaying in their hearts there is no God; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truly as you have confeſſed your ſins, ſo muſt you confeſs the juſtneſs of the Judgements of God upon your own heads if you return not unto the living God, and own the day of your viſitation.</p>
+            <p>Again you ſay, <hi>In being more disſatisfied, that you have not abtained all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aimed at, then thankful that you have obtained ſo much as you n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>joy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Verily this is not the leaſt of your ſins, but exceeds ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> others; for you aim at that which you ſhal never obtain til you be thank<g ref="char:EOLhyphen"/>ful, and walk worthy of what you enjoy; and this is the way, eaſe the op<g ref="char:EOLhyphen"/>preſſed, and take off the yoak of the poor and needy, and of the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d you may be heard; and ſeek not your own honor, for that is the ground of diſſatisfaction and unthankfulneſs among you, and the cauſe why you abuſe the mercies which you do enjoy, having loſt the ſence of the form<g ref="char:EOLhyphen"/>er dealings of the Lord with you.</p>
+            <p>Further you ſay, <hi>all which, with other the grievous ſins of theſe three Nati<g ref="char:EOLhyphen"/>ons, call aloud upon all the good people in them, to lay low in the ſight of our offen<g ref="char:EOLhyphen"/>ded God, and by Prayer ond Humiliation (a way which in our deepeſt diſtreſſes we have found both our duty and comfort to tread in) to ſeek to appeaſe his wrath, and that he will be pleaſed for his own Names ſake to remove whatſoe<g ref="char:EOLhyphen"/>ver accurſed thing there is amongſt us, and that as he is our God, ſo we may be his people.</hi>
+            </p>
+            <p>Anſw. Indeed, many more grievous ſins is highly abounding in theſe three Nations, your own oppreſſions and ſelf-ſeeking honors, and vain glories in your ſelf-performed righteouſneſs, which your perſecution of the Innocent by grievous and unjuſt Fines and Impriſonments, not regar<g ref="char:EOLhyphen"/>ding the cry of the poor, which lies under the heavy hand of oppreſſion of you ſubordinate Rulers; theſe abundantly adds to the meaſure of the iniquity of theſe three Nations, all which abominations cries aloud for vengeance upon the heads of ſome of you rather then for humiliation, for ſin cries not for humility, this is your ignorance; but the good people
+<pb n="11" facs="tcp:57779:7"/> of G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doth lay low in his ſight, who ye highly offend every day; and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you, and ſuffers under your iniquities, though you reward <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them with perſecution and hard cenſures of cruel dealing till <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your wickedneſs you repent, and turn from it, all your Prayers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miliations, and ſet dayes of ſeeking God in your rebellious Hy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cal hearts, ſhall never appeaſe Gods wrath, but the rather ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ereunto, and kindle it more abundantly againſt you: away with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oblations, and falſe divining Prophets, they are a wearineſs to <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d, and his hand is againſt them, while your hearts are upright <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him; and though ſometimes ſome of you have found God near <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diſtreſs when you called upon him, even when your hearts were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a meaſure upright with him; yet in vain you now ſet your ſelves to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, and your cry he will not hear, nor his wrath ſhall not be appea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for you have truly confeſſed the curſed thing is amongſt you, even <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Idolatry of the deepeſt nature, both in Teachers and people, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll you repent and remove every burden from off the innocent, the ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed thing cannot be taken away; but for his Names ſake which is E<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty and Juſtice, Judgement muſt he bring upon your heads, and unto you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e will be a God of vengeance, and unto him ſhall you be a people of his Curſe, except you break of your ſins by righteouſneſſe, and your <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ities by ſhewing mercie to the poor.</p>
+            <p>Further you ſay, and this you deſire, <hi>That he will infatuate the Counſels, and defeat the deſignes of all thoſe that labour to exalt themſelves againſt the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tereſt of his Son and his people.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Friends, you or ſome of you are the men which ſeeks to exalt your ſelves, (and not with) and therefore againſt the intereſt of the Son of God and his people; inſtance the unjuſt ſuffering of many of Gods people, who know the Son in them, to rule them under your Laws upheld by you, and acted in by ſome of your ſelves; and you ſay in your hearts you will not have this man to reign over you, for you own not the bring<g ref="char:EOLhyphen"/>ers of that Meſſage, but uphold your falſe Prophets which ſpeaks ſmooth things to you, and cries Peace while you follow your own wayes; and ve<g ref="char:EOLhyphen"/>rily herein you go to ſeek God againſt your ſelves to your own deſtructi<g ref="char:EOLhyphen"/>on, as being ſome of you the very men guilty of the Abominations which you ſet and propound to your ſelves in your humiliation to pray againſt; your eye is blinde, and your hearts unbelieving, and ye know not what you do; and your own counſels and deſignes, or ſo much of them at leaſt, as is againſt the Innocent, is ſure to be infatuated, and defeated, and you ſhall receive from the Lord the anſwer of your requeſts upon your own heads; for you labour againſt the Intereſt of the Son, while you ſeek to binde any mans conſcience to this or that Worſhip.</p>
+            <pb n="12" facs="tcp:57779:8"/>
+            <p>Again you ſay, <hi>That he will be pleaſed in a moſt ſpecial manner to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his preſence to thoſe who are entruſted with the management of the A<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> theſe Nations.</hi>
+            </p>
+            <p>Anſw. If you do his will, and fulfill his Ordinance of Juſtice and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>quity towards all men, not ſeeking your ſelves in any thing, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord in all things, and wait on him in his Light, by which Chriſt <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neth every one of you, to be guided thereby in all your wayes, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſence you may enjoy in a ſpecial manner, in the managing of all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fairs to his glory; but if you keep not the conditions of the Lord in f<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing his honor onely, and in denying your ſelves, his preſence you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not finde with you, but ſhall be filled with deſolations and content<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and the Nations over whom you are entruſted ſhall not have peace <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deliverance in your dayes, but they under you ſhall have confuſion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> oppreſſions, and the ſpecial preſence of the Lord ſhall not be ſho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you or to them; and remember this is a warning to you.</p>
+            <p>Again you ſay, <hi>That he will appear the mighty Counſellor experimentally <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If you ſtand in his counſel, and walk in uprightneſs of he<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> before him in the Light of Chriſt Jeſus, then will he appear to be migh<g ref="char:EOLhyphen"/>ty in his counſel with you and for you, otherwiſe ſhall you be given up to follow the counſels of your own hearts, which ſhall never bring forth good, but evill to your ſelves, to your whole Nations, and this ſhall you know experimentally by the Light in your own conſciences.</p>
+            <p>Again you ſay, <hi>That he would in all things ſpirit you unto the work <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which you are called, and give you unity among your ſelves, even the beſt <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ty, that of the Spirit, in the beſt Bond, that of Peace, that as you are a people ab<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ding in mercies, ſo you may abound in returns.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The work is great unto which you are called, and ſhall hardly be accompliſhed by you, except you receive the Spirit of the Lord to be ruled therewith in your own hearts; for if you rule for him, you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> firſt be ruled by him, [mark] and ordered with his light, which will con<g ref="char:EOLhyphen"/>demn every evill affection in you, and this is the Spirit of unity in the beſt bond of peace which is moſt precious, which brings forth a humble walking with the Lord in all righteouſneſs before him, and being led e<g ref="char:EOLhyphen"/>very one in particular with this ſpirit, and united to God, and one to a<g ref="char:EOLhyphen"/>nother, in not ſeeking your ſelves, but the Lord: This is the way where Gods bleſſing is received, and a returning unto him of praiſe for his mer<g ref="char:EOLhyphen"/>cies; but I wiſh you are not rather adding ſin unto ſin, and fulfilling the meaſure more and more of your tranſgreſſions, till the wrath of the Lord break forth againſt you to confound you for ever.</p>
+            <pb n="13" facs="tcp:57779:8"/>
+            <p>Again you ſay, <hi>And that at laſt through the unwearied goodneſs of our God <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> after ſuch memorable revolutions may be ſetled upon the ſure <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> truth, mercie and peace, and his people henceforth being deliver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ies, may ſerve him without fear in holineſs and righteouſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> all the days of their life.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly the goodneſs of God ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been unwearied to theſe three <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in many reſpects it appeareth, and many memorable revoluti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to paſs in this laſt age, even in cutting down one power <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of oppreſſions after another, till many great mountains <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>red, and the Nations levelled; and the Lord is now bringing his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rk to paſs in overturning once and again, till his Reign and his <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be exalted over all in truth and righteouſneſs; and if you ſhor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> your hand in your oppoſitions and perſecutions, your ſelves ſhall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> overturned, that God may in righteouſneſs ſettle theſe Nations <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> remains as a wavering leaf, and as an ungirded veſſel, full of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d diſtraction, fears and jealouſies) even among your own ſelves, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in your ways and thoughts in Truth, Mercy and Peace; but in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſayings, and Oppoſitions, and Confuſions, ſtand tottering like a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edge; and the proud is exalted, and the poor is deſpiſed, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that love <hi>Sion</hi> are ſet at naught; and verily you go not the way to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Nations upon the true foundation, but backſliders from the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truth: what is the foundation? upholding iniquity, and eſtabliſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> falſe Prophets and Diviners by a Law; and ſuch who the Lords <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is againſt, who upholds the horrible filthy thing, and abominati<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the earth; and confuſion is upon them till they be overthrown, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er to deceive the Nations more? therefore hear ye deaf, and look ye <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and underſtand ye hard-hearted, love Truth, and Mercy, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce in your own hearts, and depart from Iniquity; and caſt away y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Idols, and ceaſe from evil, and learn to do well; and put away the evil of your own doings, and turn to the Lord in this the day of your conſolation, and to the light of Chriſt Jeſus, wherewith he hath <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ned you; take heed, thereby to be guided every one in particular, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fear and tenderneſs, towards God and towards man; not ruling in Tyranny and Oppreſſion, nor making Laws in your own wills, accord<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own thoughts, as ſome that went before you have done, till they were cut off, as you are witneſſes, who were made in the hand of the Lord their executioners; and if you follow in any meaſure their example of wickedneſs, take them for an example in a curſed end; in love <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o all your ſouls this I write, and not to ſhame you in your wicked<g ref="char:EOLhyphen"/>neſs, but rather that you may repent, and that you may know how to ex<g ref="char:EOLhyphen"/>erciſe your ſelves in the Law of God towards the Nations, and that eve<g ref="char:EOLhyphen"/>ry burden may be removed, and the oppreſſed may go free, and the hands of iniquity may be broken; and this is the Faſt accepted of the
+<pb n="14" facs="tcp:57779:9"/> Lord, required of him from you, which if you obſerve wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hearts, a Bleſſing will the Lord make you unto the Nations <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſent age, and unto your ſelves for evermore; but if you <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hearts againſt the Lord, and tread in the ſteps of your fore <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeek to limit the Holy one, or to binde the tender conſ<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lords People, then ſhall you fall into their perdition, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> up in everlaſting confuſion, and your memorial ſhall ſtin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ge<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ons to come, and ſhall be a hiſſing among the Heathen <hi>Kingd<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deliverance will God bring another way unto his people, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> throw, if you walk not in the council of the Lord.</p>
+            <p>And whereas upon the conſideration and purpoſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſaid, you have ordered that a day be obſerved and kept <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>ſolemn humiliation and ſeeking the face of God through the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>diation of Chriſt, in England, Scotland and Ireland.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which in much tendrrneſſe of ſpirit I deſire to ſay, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you ſeek his face in the hardneſſe of your hearts, and in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> way of your own peecepts, while the yoke of the grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>preſſions in theſe Nations are not broken from off the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the poor, his fece ſhall you not behold though you ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it, but in vain ſhall you weary your ſelves, and ſhall tra<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> without iſſue as to that which you deſire, and his counte<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſhall be hid from you till he ſhew his face for evil againſt you and not for good; and to you it ſhall be ſaid, To what p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>doſe is your Oblations and Solemn Meetings? Who hath required it at your hand? even your own doings and ap<g ref="char:EOLhyphen"/>pointed Altars of Inventions which the Lord cannot accept from you; therefore give ear yee Mountains, and liſten ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tall Cedars, if you eſtabliſh the falſe Prophets, which makes a prey upon the people through covetouſneſſe, and which acteth the abominations of Iſrael in preaching for hire, and in divining for money, and in crying peace to the wicked, by a Law, and maintain them through the oppreſſion of the poor, in the crying oppreſſion of Tythes, or other<g ref="char:EOLhyphen"/>wiſe impoſing ſuch things upon the tender conſciences by any Act or Statute made or allowed by you, God ſhall not hear your cry, nor anſwer your requeſts, nor ever eſta<g ref="char:EOLhyphen"/>bliſh you in peace, nor the Nations over which you are ſet likewiſe, if you make a Law, or allow ſuch a one to bee
+<pb n="15" facs="tcp:57779:9" rendition="simple:additions"/> acted <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich any way may tye or limit the ſpirit of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any of his ſervants from reproving the a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the times in Rulers, Teachers or Peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtreets, or Temples, or places otherwiſe, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time whatſoever, the Lord will not hold you <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay aſsuredly, if you do but hide your face <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſuffering of ſuch, who through the wicked<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſome under you, may be afflicted upon ſuch <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>nt, you ſhall not be altogether innocent, but <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall be upon you likewiſe, if any for con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> ſake deny to anſwer upon any account, accor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to the former vain cuſtomes of the Nations, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d up thereto in ignorance and blindneſs, in hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> traditions, and thereupon ſuffer impriſonment, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing, or otherwiſe whatſoever, by any order from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or from any of your ſubordinate powers, you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be guilty in the ſight of God, of that ſuffering <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e innocent in ſuch a cauſe, much more ſhall you <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ilty if by any means, in any cauſe, upon any <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ition men be compelled by any authority of this <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ion to ſwear; likewiſe if any ſuffer for not bow<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the hat or knee to any of you, or of your Judges, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under-Officers, and thereupon be accounted tranſ<g ref="char:EOLhyphen"/>greſsors, the Lord ſhall account ſuch things oppreſ<g ref="char:EOLhyphen"/>ſion from your hands, and tyrannie and cruelty, and you ſhall not eſcape unpuniſhed as the Lord lives; theſe and many more abominations which of late have abounded in theſe nations, cries for vengeance againſt ſome of you who have had your hand deep<g ref="char:EOLhyphen"/>ly dipped in ſuch oppreſſions, and therefore to you this is a warning to break off theſe ſins by righteouſ<g ref="char:EOLhyphen"/>neſs,
+<pb n="16" facs="tcp:57779:10"/> and theſe evils by true repentance, l<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Faſts prove onely for ſtrife, and to ſmite wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fiſts of wickedneſs: Clear your ſelves, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your hands from theſe abominations, leſt the frui<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> them be given you to eat for food; and let this O ye Rulers be acceptable counſel unto you, that the dayes of happineſs may appear, and the long expe<g ref="char:EOLhyphen"/>cted and wailed for day of liberty may yet dawn, through this dark night of bondage which over<g ref="char:EOLhyphen"/>ſhadows your heads, that you cannot behold the glory of the ſonne, and herein ſhall you be eſtabliſh<g ref="char:EOLhyphen"/>ed, and we ſhall have cauſe to bleſs the Lord for you and with you; otherwiſe you ſhal never be renouned, but all your counſels and purpoſes ſhall fail and be curſed of the Lord, and evill ſhall be upon you, and upon the Nations for your ſakes.</p>
+            <p>ANd all you that fear God, liſten and give au<g ref="char:EOLhyphen"/>dience, and let the fear of the Lord bee be<g ref="char:EOLhyphen"/>fore your eyes, and keep your ſelves pure from the iniquities which the reſt loves to drink in; and though your power be ſhorter, and your vote lower, then the uprightneſs of your hearts deſires, yet unto God be faithful in bearing your teſtimony for him, and againſt all that which with the light of Jeſus, you ſee to be contrary to him, and be awakened vnto righteouſneſs, judgement and mercy; the light is ſpringing over your heads, and the day of the Lord is dawning out of darkneſs, and a ſeed is ſown in your dominions which cannot bee rooted out
+<pb n="17" facs="tcp:57779:10" rendition="simple:additions"/> til <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> over-ſpread the Earth with the precious <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>of, and though it be ſtriven againſt to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up, yet ſhall the branch and root thereof bee <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>gly renouned, for it is of the true Jew, and he <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lls before it ſhall never more riſe up again.</p>
+            <closer>
+               <signed>And this is by a true Lover of your Souls, in faithfulneſs unto God: Given forth for your ſakes who fear the Lord, E. B.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 8. line 34. for <hi>ere</hi> read <hi>are,</hi> and add <hi>is</hi> after <hi>it</hi> in the ſame line: p. 10. l. 33. read <hi>with</hi> for <hi>which;</hi> p. 11. l. 9. add <hi>not</hi> before <hi>upright;</hi> p. 12. l. 22. add <hi>and</hi> after ſelves, p. 13. l. 18. r. <hi>ſtands</hi> for <hi>ſtand,</hi> and in line 21. read <hi>backſlides</hi> for <hi>backſliders;</hi> and in l. 21. r. <hi>which</hi> for <hi>what;</hi> and in l. 22. r. <hi>whom</hi> for <hi>who;</hi> p. 14. l. 17. r. <hi>great</hi> for <hi>grean;</hi> and l. 19. for <hi>fece</hi> r. <hi>ſace:</hi> p. 15. l. 11. for <hi>anſwer</hi> r. <hi>ſwear;</hi> page 16. l. 8. for <hi>wdiled</hi> r. <hi>waited.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
